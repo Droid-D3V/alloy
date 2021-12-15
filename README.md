@@ -1,5 +1,5 @@
-# Deprecated!
-This project is deprecated! Use our other proxy [Corrosion](https://github.com/titaniumnetwork-dev/corrosion) instead!
+# Continued!
+Project continued by Droid_D3V, Discord @ Droid.#0001
 
 # Alloy Proxy
 A web proxy for use in combating web filters.
