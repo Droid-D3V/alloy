@@ -1,5 +1,5 @@
 # Continued!
-Project continued by Droid_D3V, Discord @ Droid.#0001
+Project continued by Droid_D3V
 
 # Alloy Proxy
 A web proxy for use in combating web filters.
